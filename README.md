@@ -2,9 +2,6 @@
 
 Ce projet est une réplique de la page d'accueil du moteur de recherche Google. Il a été réalisé dans le cadre d'un TP pour pratiquer la structuration de pages web et le design.
 
-## Démo en ligne
-**[Voir le projet en ligne ici](https://ka-outar.github.io/TP_HTML_CSS_2/)**
-
 ## Aperçu du projet
 ![resultat](https://github.com/user-attachments/assets/7c964efb-f2bc-4890-96c5-0ec9eec49eda)
 
